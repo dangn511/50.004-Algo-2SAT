@@ -1,0 +1,5 @@
+p cnf 3 4
+a b 0
+a c 0
+-b c 0
+-a b 0
